@@ -4,7 +4,7 @@ YOLOv3 implementation with Tensorflow on Android
 This project contains an example of YoloV3 implementation on Android, the YoloV3 model was implemented through the library 
 ``org.tensorflow:tensorflow-android``.
 
-Below is a list of steps taken to convert the YoloV3 model from darkflow to tensorflow for Android (command launched on Ubuntu inside Anaconda):
+Below is a list of steps taken to convert the YoloV3 model from darkflow to tensorflow for Android (command launched on Ubuntu ):
 
 * clone DW2TF repository from here https://github.com/jinyu121/DW2TF to local folder
   * ex: /home/user/projects/
